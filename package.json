@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "bot.js",
   "scripts": {
+    "build": "npm run build",
     "start": "node bot.js"
   },
   "dependencies": {
