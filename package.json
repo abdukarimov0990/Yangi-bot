@@ -1,14 +1,27 @@
 {
   "name": "telegram-bot",
   "version": "1.0.0",
-  "main": "bot.js",
+  "main": "index.js",
   "scripts": {
-    "build": "npm run build",
-    "start": "node bot.js"
+    "build": "true",
+    "start": "node index.js"
   },
   "dependencies": {
     "dotenv": "^17.2.1",
     "express": "^5.1.0",
     "telegraf": "^4.16.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdukarimov0990/Yangi-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdukarimov0990/Yangi-bot/issues"
+  },
+  "homepage": "https://github.com/abdukarimov0990/Yangi-bot#readme",
+  "description": ""
 }
