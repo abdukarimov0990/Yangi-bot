@@ -44,7 +44,6 @@ const LANGS = {
   uz: 'O\'zbekcha 🇺🇿',
   ru: 'Русский 🇷🇺',
 };
-
 const TEXT = {
   start: {
     uz: 'Assalomu alaykum! Men salon uchun ishga qabul botiman. Keling, arizani boshlaymiz.',
