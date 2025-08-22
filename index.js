@@ -2,7 +2,7 @@
 const { Telegraf, Markup } = require('telegraf');
 
 // ======== CONFIG ========
-const BOT_TOKEN = "7659296138:AAFwWj9ra91Bf9m7H_TNOQNKm1Epm8cK_fU"
+const BOT_TOKEN = "8118168430:AAG-U0pS5yYQHhHlpeyTb9AnggfIFTRRsXQ"
 const CHANNEL_ID = "-1003080376182"; // e.g., -1001234567890
 
 if (!BOT_TOKEN || !CHANNEL_ID) {
